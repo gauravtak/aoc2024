@@ -1,4 +1,3 @@
-import os
 f = open('./input.txt')
 
 list1 = []
